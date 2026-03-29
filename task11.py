@@ -1,0 +1,5 @@
+o = int(input())
+if o in [12, 1, 2]: print("Qish")
+elif 3 <= o <= 5: print("Bahor")
+elif 6 <= o <= 8: print("Yoz")
+elif 9 <= o <= 11: print("Kuz")
